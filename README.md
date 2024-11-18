@@ -1,2 +1,1 @@
-# social-links-profile
-exercise to create a links list
+exercise from the front end mentor
